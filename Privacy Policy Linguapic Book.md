@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy Policy"
+permalink: /Privacy-Policy-Linguapic-Book
+
 Privacy Policy for Linguapic Book
 
 Effective Date: September 2025
